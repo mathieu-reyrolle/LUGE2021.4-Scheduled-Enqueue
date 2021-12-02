@@ -17,7 +17,7 @@
 		<Item Name="01. Timed Structure Offset" Type="Folder">
 			<Item Name="Timed Structure Offset.vi" Type="VI" URL="../01. Timed Structure Offset/Timed Structure Offset.vi"/>
 		</Item>
-		<Item Name="02. Assynchronous Call" Type="Folder">
+		<Item Name="02. Asynchronous Call" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Run VI Method.vi" Type="VI" URL="../02. Assynchronous Call/Run VI Method.vi"/>
 			<Item Name="Run VI Method With Arguments.vi" Type="VI" URL="../02. Assynchronous Call/Run VI Method With Arguments.vi"/>
@@ -69,6 +69,7 @@
 		</Item>
 		<Item Name="04. Going further..." Type="Folder">
 			<Item Name="Other Stuffs.vi" Type="VI" URL="../04. Going Further/Other Stuffs.vi"/>
+			<Item Name="Static References, Strictly or not Strictly Typed.vi" Type="VI" URL="../04. Going Further/Static References, Strictly or not Strictly Typed.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
